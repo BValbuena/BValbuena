@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a task manager for a marketing company<br>🤝 I’m looking for help with PHP<br>🌱 I’m currently learning anything and everything I can<br>💬 Ask me about myself<br>⚡ Fun fact about me is that I love cats
+🔭 I’m currently working on a budget manager for a marketing company<br>🤝 I’m looking for help with PHP<br>🌱 I’m currently learning anything and everything I can<br>💬 Ask me about myself<br>⚡ Fun fact about me is that I love cats
 
 
 ## 🌐 Socials:
