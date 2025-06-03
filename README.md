@@ -1,9 +1,20 @@
 <!-- README.md -->
 
-# 👋 Hey there! I'm Boxin Valbuena
+<h1 align="center">👋 Hi, I'm <span style="color:#6c63ff">Boxin Valbuena</span></h1>
 
-Creative full-stack developer, tech enthusiast, and part-time cat cuddler 😸.  
-Currently building a **budget manager** app and constantly exploring new tech.
+<p align="center">
+  🚀 <strong>Full-stack developer</strong> · 🎨 <strong>UI/UX enthusiast</strong> · 😸 <strong>Cat lover</strong>
+</p>
+
+<p align="center">
+  Currently building a <strong>next-gen budget planner</strong> 💰 using <code>React</code> + <code>Express</code> <br/>
+  Passionate about clean code, modern design, and creating beautiful user experiences ✨
+</p>
+
+<p align="center">
+  <em>“Design it like you mean it. Code it like you care.”</em>
+</p>
+
 
 ---
 
