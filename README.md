@@ -1,86 +1,87 @@
-<!-- README.md -->
-
-<h1 align="center">👋 Hi, I'm <span style="color:#6c63ff">Boxin Valbuena</span></h1>
+<h1 align="center">🌟 Hi, I'm <span style="color:#ff8ccf">Boxin Valbuena</span> 🐾</h1>
 
 <p align="center">
-  🚀 <strong>Full-stack developer</strong> · 🎨 <strong>UI/UX enthusiast</strong> · 😸 <strong>Cat lover</strong>
+  🧁 Full-stack developer · ✨ UI/UX dreamer · 🎧 Cozy cat companion
 </p>
 
 <p align="center">
-  Currently building a <strong>next-gen budget planner</strong> 💰 using <code>React</code> + <code>Express</code> <br/>
-  Passionate about clean code, modern design, and creating beautiful user experiences ✨
+  Currently crafting a magical budget planner 💰 using <code>React</code> + <code>Express</code>  
+  Passionate about pretty pixels, delightful design & thoughtful code 💖
 </p>
 
-<p align="center">
-  <em>“Design it like you mean it. Code it like you care.”</em>
-</p>
-
+<p align="center"><em>"Design like it's art. Code like it's a spell." 🪄</em></p>
 
 ---
 
-## ✨ Quick Facts
-- 💻 Full-stack dev passionate about building real-world apps
-- 🔧 Currently building a React + Express **budget planner**
-- 🐱 Cat lover & proud
-- 🎮 Gamer on Epic, Riot, Steam, PSN & Xbox
-- 📖 Bookworm & TV series binge-watcher
+## 🌈 Quick Facts
+- 💻 Front-end & full-stack wizard-in-training
+- 🛠 Working on a sparkly new **React + Express** budget app
+- 🐱 Cat cuddler & creature comfort connoisseur
+- 🎮 Gamer on Epic, Riot, Steam, PlayStation & Xbox
+- 📖 Fan of fantasy books, romance & webtoons
+- 🎲 Proud Dungeons & Dragons player 🐉
+- 📺 Anime + series binge-watcher (send me recs!)
 
 ---
 
 ## 📌 Featured Projects
 
-### 🧾 Budget Manager App  
-> A modern app to plan and export stylish monthly budgets. PDF export, reCAPTCHA, admin panel & more.  
+### 💰 Budget Manager App  
+> A sparkly, modern budget planner with PDF export, reCAPTCHA, admin panel & responsive design.  
 [🔗 View Project](https://github.com/BValbuena/budget-manager)
 
-### 🧠 Faysia (AI Stylist App)  
-> iOS app with CoreML + Mediapipe to recommend styles based on face shape.  
+### 💫 Faysia (AI Face Stylist)  
+> iOS app using CoreML + Mediapipe to detect face shape and suggest personalized beard & hair styles.  
 [🔗 View Project](https://github.com/BValbuena/faysia-app)
 
 ---
 
-## 🚀 Career Goals
-- 🧑‍🎨 Become a **standout UI/UX designer** with strong coding skills to back it up
-- 🌐 Grow as a **fullstack or front-end developer** in modern frameworks (React, SwiftUI)
-- 🎯 Land a role where I can design and build beautiful, functional apps
-- 📚 Constantly sharpen my eye for detail, user flow, and interactivity
+## 🎯 Career Goals
+- 🌟 Grow into a standout **UI/UX designer** with strong front-end skills  
+- 🧠 Master tools like Figma, SwiftUI, and advanced React libraries  
+- 💼 Join a team where I can design & develop apps that feel magical ✨  
+- 🧩 Continue building projects that balance **aesthetic and usability**
 
 ---
 
-## 🌐 Find Me
-
-[![Instagram](https://img.shields.io/badge/@bo_valbuena-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@bo_valbuena)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boxin-valbuena-hutchings-2b83992a3/)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=twitch&logoColor=white)](https://twitch.tv/bssapphire)
-[![X](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/BSSapphire8)
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:boxinvalbuena@gmail.com)
-
----
-
-## 🧠 Tech Stack
+## 💌 Find Me
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" title="PHP"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40" title="Swift"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" title="Firebase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40" title="Bootstrap"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" title="Figma"/>
+  <a href="https://instagram.com/@bo_valbuena"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/boxin-valbuena-hutchings-2b83992a3/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitch.tv/bssapphire"><img src="https://img.shields.io/badge/Twitch-%239146FF.svg?style=flat&logo=twitch&logoColor=white"/></a>
+  <a href="https://x.com/BSSapphire8"><img src="https://img.shields.io/badge/X-%23000000.svg?style=flat&logo=X&logoColor=white"/></a>
+  <a href="mailto:boxinvalbuena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🎮 Hobbies
-- 🐱 Cat cuddler & anything fluffy
-- 🎮 Gaming on **Epic, Riot, PS, Xbox & Steam**
-- 📚 Reading & 📺 watching shows (I binge responsibly 😅)
+## 🛠️ My Tech Toolbox
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
+</p>
+
+---
+
+## 🧁 Fun Stuff I Love
+- 🐾 **Cuddling cats**
+- 🎧 **Headphones all day**
+- 🎮 Gaming on multiple platforms
+- 🧙‍♂️ **Rolling d20s in Dungeons & Dragons**
+- 📺 K-dramas, anime, sci-fi, fantasy & true crime
 
 ---
 
@@ -93,37 +94,32 @@
 
 ---
 
-## 💬 Dev Quote
+## 🧠 Daily Dev Quote
 ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-## 👁️ Visitor Counter
-[![](https://visitcount.itsvg.in/api?id=BValbuena&icon=0&color=0)](https://visitcount.itsvg.in)
+## ✨ Visitor Counter
+[![](https://visitcount.itsvg.in/api?id=BValbuena&icon=5&color=6)](https://visitcount.itsvg.in)
 
 ---
 
 <details>
   <summary>🇪🇸 Versión en Español</summary>
 
-## 👋 ¡Hola! Soy Boxin Valbuena
+## ✨ ¡Hola! Soy Boxin Valbuena
 
-Desarrollador full-stack creativo, amante de los gatos 😺 y fan de aprender cosas nuevas.
+Desarrollador full-stack creativo con alma de diseñador, amante de los gatos 🐱 y fan de todo lo bonito.
 
-### ✨ Sobre mí
-- 🔧 Actualmente estoy desarrollando un gestor de presupuestos para una empresa de marketing.
-- 💻 Apasionado por el diseño y desarrollo frontend & fullstack.
-- 🎮 Gamer en Epic, Riot, Steam, PS y Xbox.
-- 🐱 ¡Amo los gatos!
-- 📚 Me encanta leer y ver series.
+### 💫 Sobre mí
+- 🔧 Desarrollo una app de presupuestos con React + Express.
+- 💖 Apasionado por el diseño UI/UX y el desarrollo frontend.
+- 🎮 Gamer en Riot, Steam, Epic, PS y Xbox.
+- 🧙‍♂️ Juego Dungeons & Dragons y creo mundos mágicos.
+- 📺 Amante de las series, el anime y las historias épicas.
 
-### 🚀 Objetivos profesionales
-- Crecer como diseñador UI/UX con base sólida en desarrollo web.
-- Mejorar mis habilidades en **React, SwiftUI y Figma**..
-- Contribuir a productos reales y mejorar la experiencia de usuario.
-
-### 📌 Proyectos destacados
-- 🧾 **Budget Manager App** – App moderna para gestionar presupuestos con PDF export.
-- 🧠 **Faysia App** – App iOS con AI que sugiere estilos según tu rostro.
+### 🚀 Objetivos
+- Crecer como diseñador UI/UX con skills fullstack.
+- Trabajar con equipos que valoran la estética y la funcionalidad.
 
 </details>
