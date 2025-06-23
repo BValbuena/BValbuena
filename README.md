@@ -32,7 +32,7 @@
 
 ### 💫 Faysia (AI Face Stylist)  
 > iOS app using CoreML + Mediapipe to detect face shape and suggest personalized beard & hair styles.  
-[🔗 View Project](https://github.com/BValbuena/faysia-app)
+[🔗 View Project](https://github.com/BValbuena/PFC-Faysia)
 
 ---
 
