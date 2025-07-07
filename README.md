@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Currently crafting a magical budget planner 💰 using <code>React</code> + <code>Express</code>  
+  Currently crafting a magical budget planner 💰 using <code>React</code> + <code>Vite</code>  
   Passionate about pretty pixels, delightful design & thoughtful code 💖
 </p>
 
