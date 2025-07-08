@@ -109,10 +109,10 @@
 
 ## ✨ ¡Hola! Soy Boxin Valbuena
 
-Desarrollador full-stack creativo con alma de diseñador, amante de los gatos 🐱 y fan de todo lo bonito.
+Desarrolladora full stack creativa con alma de diseñadora, amante de los gatos 🐱 y fan de todo lo bonito.
 
 ### 💫 Sobre mí
-- 🔧 Desarrollo una app de presupuestos con React + Express.
+- 🔧 Desarrollé una app de presupuestos con React + Vite.
 - 💖 Apasionado por el diseño UI/UX y el desarrollo frontend.
 - 🎮 Gamer en Riot, Steam, Epic, PS y Xbox.
 - 🧙‍♂️ Juego Dungeons & Dragons y creo mundos mágicos.
